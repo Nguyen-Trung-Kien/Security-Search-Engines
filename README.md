@@ -47,8 +47,17 @@ STT | Tên | Website | Tình trạng |
 
 
 # Tìm kiếm domain
-STT | Tên | Website | Tình trạng |
-| 1 | Phonebook | https://phonebook.cz | Ổn định |
-| 2 | Osint | https://osint.sh/subdomain | Ổn định |
-| 3 | Unsafe | https://unsafe.sh/domain/index | Ổn định |
-| 4 | Riddler | 
+STT | Tên | Website | Tình trạng | Câu lệnh | 
+| -------------------- | --------- | --------- | --------- | --------- |
+| 1 | Phonebook | https://phonebook.cz | Ổn định | NULL |
+| 2 | Osint | https://osint.sh/subdomain | Ổn định | NULL | 
+| 3 | Unsafe | https://unsafe.sh/domain/index | Ổn định | NULL |
+| 4 | Riddler | https://riddler.io | ổn định | https://riddler.io/search?q=pld:example.com |
+| 5 | Spyonweb | https://spyonweb.com | ổn định | https://spyonweb.com/example.com |
+| 6 | Dnsgrep | https://www.dnsgrep.cn | ổn định | https://www.dnsgrep.cn/subdomain/example.com |
+| 7 | Alienvault | https://otx.alienvault.com | Chập chờn | https://otx.alienvault.com/indicator/domain/example.com |
+| 8 | Crt | https://crt.sh | Chập chờn | https://crt.sh/?q=example.com |
+| 9 | Virus total | https://securitytrails.com | Ổn định | NULL |
+| 10 | Security trainls | https://www.virustotal.com | Chập chờn | NULL |
+
+
