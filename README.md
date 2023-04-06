@@ -83,3 +83,12 @@ STT | Tên | Website  | Mô tả |
 | 1 | Tweetdeck | https://tweetdeck.twitter.com | Cho phép xem từng mục tweeter |
 
 
+# Những trang đọc report bug
+STT | Tên | Website  | Mô tả |
+| -------------------- | --------- | --------- | --------- |
+| 1 | Hackerone | https://hackerone.com/hacktivity | ../etc/passwd |
+| 2 | Bugbountyhunter | https://www.bugbountyhunter.com/publicprograms | cũng là heckerone nhưng rõ ràng hơn | 
+| 3 | Bugrender | https://bugreader.com/reports | ../../etc/passwd |
+| 4 | PentestLand | https://pentester.land/writeups | tổng hợp |
+
+
