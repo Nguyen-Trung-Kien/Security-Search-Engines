@@ -70,3 +70,16 @@ STT | Tên | Website | Tình trạng |
 | 1 | Public WWW | https://publicwww.com | Xập | 
 | 3 | SearchCode | https://searchcode.com | Ổn định |
 | 4 | Nerdydata | https://www.nerdydata.com | Ổn định |
+
+
+# Săn CVE
+STT | Tên | Website | Tình trạng |
+| -------------------- | --------- | --------- | --------- |
+| 1 | Cybersecurityboard | https://cybersecurityboard.com | Ổn định |
+
+# 1 số trang khác
+STT | Tên | Website  | Mô tả |
+| -------------------- | --------- | --------- | --------- |
+| 1 | Tweetdeck | https://tweetdeck.twitter.com | Cho phép xem từng mục tweeter |
+
+
