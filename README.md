@@ -71,6 +71,12 @@ STT | Tên | Website | Tình trạng |
 | 3 | SearchCode | https://searchcode.com | Ổn định |
 | 4 | Nerdydata | https://www.nerdydata.com | Ổn định |
 
+# Sàn bugbounty
+STT | Tên | Website | Tình trạng |
+| -------------------- | --------- | --------- | --------- |
+| 1 | H1 | https://www.hackerone.com | Ổn định |
+| 2 | Bc | https://www.bugcrowd.com | Ổn định |
+| 3 | inspectiv | https://app.inspectiv.com | Ổn định |
 
 # Săn CVE
 STT | Tên | Website | Tình trạng |
